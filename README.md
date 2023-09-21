@@ -10,23 +10,13 @@
   </h3>
 </div>
 
-💬 I am...
-
-```yaml
-name: SangWoo Yun
-from: Seoul, Korea
-education: [@Dongguk University:
-                "Bachelor of Statistics", 
-                "Bachelor of Convergence Software"]
-```
-
 💻 I experience...
 
 ```yaml
-[2020.03-2021.11]: 동국대학교 멋쟁이 사자처럼 8기
+[2020.03-2021.11]: 멋쟁이 사자처럼 8기
 [2020.08-2021.10]: 롯데정보통신X멋쟁이사자처럼 해커톤 
                    동상: Lotteng(롯땡)
-[2020.03-2022.06]: 동국대학교 HI-SW 봉사단
+[2020.03-2022.06]: HI-SW 봉사단
 [2021.12-2022.01]: 테스트베드 활용 확산 해커톤
                    아이디어 부분 우수상: 청각장애인 부모를 위안 영아 케어 애플리케이션
 [2023.03-2023.05]: KB 국민은행 IT 아카데미 IT's Your Life 3기
